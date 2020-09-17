@@ -58,7 +58,7 @@ public class JanelaCompra extends JFrame {
 		contentPane.add(lblNewLabel_1);
 		
 	
-		JLabel lblNewLabel_2 = new JLabel("Total a Pagar");
+		JLabel lblNewLabel_2 = new JLabel("Total a Pagar R$");
 		lblNewLabel_2.setForeground(Color.RED);
 		lblNewLabel_2.setFont(new Font("Tahoma", Font.BOLD, 11));
 		lblNewLabel_2.setBounds(23, 334, 116, 14);
